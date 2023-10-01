@@ -1,0 +1,27 @@
+{
+  "title": "Hwaiting Festival",
+  "slug": "hwaiting",
+  "card_img": "card_hwaiting.svg",
+  "card_descrip": "This was my first time working with React and working with a framework in general. It was the exam project of my elective Frontend development where we had to build a festival site.",
+  "created_when": "3rd semester exam project",
+  "card_tags": ["React", "React Router", "Sass", "GSAP"],
+  "website": "https://hwating-festival.netlify.app/",
+  "repo": "https://github.com/PandaPoob/hwaitingfestival",
+  "detail_img": "splash_hwaiting.png",
+  "detail_descrip_1": "This site was the exam project of my Frontend elective on the 3rd semester. We were 3 students who created our own “festival” where you could see an overview of the bands playing and where you could book tickets. The backend which provided tickets, schedules and more was originally hosted on Heroku which unfortunately is not the case anymore since it is no longer free. However I have managed to host the band data elsewhere to view the lists but the checkout flow where you order tickets is no longer functional.",
+  "detail_descrip_2": "As this was my first time working with a framework and React I learned a lot. I learned how to manage states and how to use useEffect and context. The site is styled with Sass and we used the animation library GSAP to add animations.",
+  "tech_stack": [
+    { "label": "Node.js", "img": "node_js.svg" },
+    { "label": "React", "img": "next_js.svg" },
+    { "label": "React Router", "img": "react_router.svg" },
+    { "label": "Sass", "img": "sass.svg" },
+    { "label": "WordPress", "img": "gsap.svg" }
+  ],
+  "other_tools": [
+    { "label": "Trello", "img": "trello.svg" },
+    { "label": "Figma", "img": "figma.svg" },
+    { "label": "GitHub", "img": "github.svg" },
+    { "label": "Netlify", "img": "netlify.svg" },
+    { "label": "npm", "img": "npm.svg" }
+  ]
+}

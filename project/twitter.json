@@ -1,0 +1,29 @@
+{
+  "title": "Twitter Clone",
+  "slug": "twitter",
+  "card_img": "card_twitter.svg",
+  "card_descrip": "I developed this exam project individually in the courses Web Development and Databases. It is meant to look and function just like Twitter, now called X.",
+  "created_when": "5th semester exam project",
+  "card_tags": ["Python", "Bottle", "HTML", "Tailwind CSS", "SQLite"],
+  "website": "https://pandapoob.eu.pythonanywhere.com/",
+  "repo": "https://github.com/PandaPoob/my_twitter",
+  "detail_img": "splash_twitter.png",
+  "detail_descrip_1": "This was an exam project on my 5th semester in Web Development and Databases. It is meant to be an exact copy of Twitter. This means that not only is it suppose to look like Twitter it is also suppose to work like Twitter. There is a signup, verify email, login, forgot/reset password, edit profile, delete profile, follow/unfollow, tweet with text and/or image(s) and a full text search.",
+  "detail_descrip_2": "This was the first time I worked with a project where I was in full control of the database and it was also the first time I worked with Python. I was introduced to many things relating to databases like normalisation, ACID principles and CRUD queries. In addition I also gained generel knowledge related to web development like encryption and JSON Web Tokens (jwt).",
+  "detail_docu_text": "Click to see relational entity diagram",
+  "detail_docu_img": "docu_twitter.png",
+  "tech_stack": [
+    { "label": "HTML", "img": "html.svg" },
+    { "label": "JavaScript", "img": "javascript.svg" },
+    { "label": "Tailwind CSS", "img": "tailwindcss.svg" },
+    { "label": "Python", "img": "python.svg" },
+    { "label": "Bottle", "img": "bottle.svg" },
+    { "label": "SQLite", "img": "sqlite.svg" }
+  ],
+  "other_tools": [
+    { "label": "GitHub", "img": "github.svg" },
+    { "label": "PythonAnywhere", "img": "pythonanywhere.svg" },
+    { "label": "Thunder Client", "img": "thunderclient.svg" },
+    { "label": "Pip", "img": "pip.svg" }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "title": "Hacked Hogwarts",
+  "slug": "hogwarts",
+  "card_img": "card_hogwarts.svg",
+  "card_descrip": "During this project I pretended to be a frontend developer at Hogwarts who built a site to administrate students. It displays a student list and has filtering, sorting and other fun features all built in vanilla javascript.",
+  "created_when": "3rd semester project",
+  "card_tags": ["HTML", "CSS", "Javascript"],
+  "website": "https://www.pandapoob.com/kea/11_just_java/hogwarts_hacked/",
+  "repo": "https://github.com/PandaPoob/hacked_hogwarts",
+  "detail_img": "splash_hogwarts.png",
+  "detail_descrip_1": "I created this project while on my 3rd semester of Multimedia Design on the Frontend elective. It is a site to administer the students of Hogwarts and I built the student list from given data. You can filter, sort and search for students. You can also appoint students to be prefects or add them to the Inquisitorial Squad - but only under certain circumstances. You can also expel students or click the suspicious button at the bottom of the page...",
+  "detail_descrip_2": "Though I had worked with JavaScript before I had never had to code something with this many requirements. It was here I was introduced to string methods, params, asynchronous operations, return values and many other new things.",
+  "detail_docu_text": "Click to see activity diagram",
+  "detail_docu_img": "docu_hogwarts.png",
+  "tech_stack": [
+    { "label": "HTML", "img": "html.svg" },
+    { "label": "CSS", "img": "css.svg" },
+    { "label": "JavaScript", "img": "javascript.svg" }
+  ],
+  "other_tools": [
+    { "label": "GitHub", "img": "github.svg" },
+    { "label": "Illustrator", "img": "ai.svg" }
+  ]
+}

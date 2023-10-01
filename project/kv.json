@@ -1,0 +1,34 @@
+{
+  "title": "Kattens Værn",
+  "slug": "kv",
+  "card_img": "card_kv.svg",
+  "card_descrip": "This project was created with my exam group in collaboration with Kattens Værn. We redesigned and built a new brand identity and website to inspire and relate better to the younger part of their target group.",
+  "created_when": "MMD final exam project",
+  "card_tags": ["Next.js", "Chakra UI", "Framer Motion", "WordPress"],
+  "website": "https://new-eksamen-kv.netlify.app/",
+  "repo": "https://github.com/PandaPoob/new_kv_eksamen",
+  "detail_img": "splash_kv.png",
+  "detail_descrip_1": "This website was created with three other students for our final Multimedia design exam where I was mainly responsible for the development.  We were lucky to be able to work together with Kattens Værn to give them our take on a redesigned new website that would better relate to the younger part of their target group.",
+  "detail_descrip_2": "We built a modern frontend to display and handle all their data with Next.js and set up a WordPress site to function as their database/content management system. Everything on the site comes from Wordpress, (except for some content) the cats for adoption, articles, different shelters all come from dynamic data that can be edited, removed or added to from the wordpress site. The missing and found cat forms also post to the database and triggers a build hook so the new cat will be displayed on the lists shortly after.",
+  "detail_docu_text": "Click to see system diagram",
+  "detail_docu_img": "docu_kv.png",
+  "tech_stack": [
+    { "label": "Next.js", "img": "next_js.svg" },
+    { "label": "Node.js", "img": "node_js.svg" },
+    { "label": "Chakra UI", "img": "chakra_ui.svg" },
+    { "label": "Framer Motion", "img": "framer_motion.svg" },
+    { "label": "WordPress", "img": "wordpress.svg" }
+  ],
+  "other_tools": [
+    { "label": "Trello", "img": "trello.svg" },
+    { "label": "Figma", "img": "figma.svg" },
+    { "label": "GitHub", "img": "github.svg" },
+    { "label": "Netlify", "img": "netlify.svg" },
+    { "label": "Postman", "img": "postman.svg" },
+    { "label": "WP plugins", "img": "wp_plugins.svg" },
+    { "label": "npm", "img": "npm.svg" },
+    { "label": "formik", "img": "formik.svg" },
+    { "label": "yup", "img": "yup.svg" },
+    { "label": "react icons", "img": "react_icons.svg" }
+  ]
+}

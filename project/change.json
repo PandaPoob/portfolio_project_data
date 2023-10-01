@@ -1,0 +1,35 @@
+{
+  "title": "Change Lingerie",
+  "slug": "change",
+  "card_img": "card_change.svg",
+  "card_descrip": "I contributed to this substantial ecommerce project during my internship and later as a student worker at AKQA. My primary focus and responsibilities were on the frontend development.",
+  "created_when": "Internship/Student worker",
+  "card_tags": [
+    "Next.js",
+    "Chakra UI",
+    "Framer Motion",
+    "Typescript",
+    "Contentful",
+    "GraphQL"
+  ],
+  "website": "https://www.change.com/",
+  "detail_img": "splash_change.png",
+  "detail_descrip_1": "During my internship and later as a student worker at AKQA I got to contribute to this huge commerce solution for Change Lingerie. In my role as frontend-developer I was mainly responsible for the UI, implementing the design and a few extra features. During the project I gained experience collaborating with other developers, designers and project owners.",
+  "detail_descrip_2": "Throughout the project I mainly styled and created UI components through Chakra UI but I also got to work with implementing new features such as the size calculater. I also helped connecting Contentful to the frontend by getting translations or building content components.",
+  "tech_stack": [
+    { "label": "Next.js", "img": "next_js.svg" },
+    { "label": "Node.js", "img": "node_js.svg" },
+    { "label": "Chakra UI", "img": "chakra_ui.svg" },
+    { "label": "Framer Motion", "img": "framer_motion.svg" },
+    { "label": "Typescript", "img": "typescript.svg" },
+    { "label": "GraphQL", "img": "graphql.svg" },
+    { "label": "Contenful", "img": "contentful.svg" }
+  ],
+  "other_tools": [
+    { "label": "Jira", "img": "jira.svg" },
+    { "label": "Bitbucket", "img": "bitbucket.svg" },
+    { "label": "npm", "img": "npm.svg" },
+    { "label": "formik", "img": "formik.svg" },
+    { "label": "yup", "img": "yup.svg" }
+  ]
+}

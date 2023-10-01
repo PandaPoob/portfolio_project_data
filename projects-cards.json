@@ -1,0 +1,57 @@
+[
+  {
+    "title": "Change Lingerie",
+    "slug": "change",
+    "card_img": "card_change.svg",
+    "card_descrip": "I contributed to this substantial ecommerce project during my internship and later as a student worker at AKQA. My primary focus and responsibilities were on the frontend development.",
+    "created_when": "Internship/Student worker",
+    "card_tags": [
+      "Next.js",
+      "Chakra UI",
+      "Framer Motion",
+      "Typescript",
+      "Contentful",
+      "GraphQL"
+    ]
+  },
+  {
+    "title": "Twitter Clone",
+    "slug": "twitter",
+    "card_img": "card_twitter.svg",
+    "card_descrip": "I developed this exam project individually in the courses Web Development and Databases. It is meant to look and function just like Twitter, now called X.",
+    "created_when": "5th semester exam project",
+    "card_tags": ["Python", "Bottle", "HTML", "Tailwind CSS", "SQLite"]
+  },
+  {
+    "title": "Kattens Værn",
+    "slug": "kv",
+    "card_img": "card_kv.svg",
+    "card_descrip": "This project was created with my exam group in collaboration with Kattens Værn. We redesigned and built a new brand identity and website to inspire and relate better to the younger part of their target group.",
+    "created_when": "MMD final exam project",
+    "card_tags": ["Next.js", "Chakra UI", "Framer Motion", "WordPress"]
+  },
+  {
+    "title": "Hwaiting Festival",
+    "slug": "hwaiting",
+    "card_img": "card_hwaiting.svg",
+    "card_descrip": "This was my first time working with React and working with a framework in general. It was the exam project of my elective Frontend development where we had to build a festival site.",
+    "created_when": "3rd semester exam project",
+    "card_tags": ["React", "React Router", "Sass", "GSAP"]
+  },
+  {
+    "title": "Hacked Hogwarts",
+    "slug": "hogwarts",
+    "card_img": "card_hogwarts.svg",
+    "card_descrip": "During this project I pretended to be a frontend developer at Hogwarts who built a site to administrate students. It displays a student list and has filtering, sorting and other fun features all built in vanilla javascript.",
+    "created_when": "3rd semester project",
+    "card_tags": ["HTML", "CSS", "Javascript"]
+  },
+  {
+    "title": "Whack-A-Panda",
+    "slug": "panda",
+    "card_img": "card_panda.svg",
+    "card_descrip": "This project introduced me to css animations and javascript through building my very own point-and-click mini game.",
+    "created_when": "1st semester project",
+    "card_tags": ["HTML", "CSS", "Javascript"]
+  }
+]
