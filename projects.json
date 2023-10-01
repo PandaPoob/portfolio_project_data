@@ -1,0 +1,170 @@
+[
+  {
+    "title": "Change Lingerie",
+    "card_img": "card_change.svg",
+    "card_descrip": "I contributed to this substantial ecommerce project during my internship and later as a student worker at AKQA. My primary focus and responsibilities were on the frontend development.",
+    "created_when": "Internship/Student worker",
+    "card_tags": [
+      "Next.js",
+      "Chakra UI",
+      "Framer Motion",
+      "Typescript",
+      "Contentful",
+      "GraphQL"
+    ],
+    "website": "https://www.change.com/",
+    "detail_img": "",
+    "detail_descrip_1": "During my internship and later as a student worker at AKQA I got to contribute to this huge commerce solution for Change Lingerie. In my role as frontend-developer I was mainly responsible for the UI, implementing the design and a few extra features. During the project I gained experience collaborating with other developers, designers and project owners.",
+    "detail_descrip_2": "Throughout the project I mainly styled and created UI components through Chakra UI but I also got to work with implementing new features such as the size calculater. I also helped connecting Contentful to the frontend by getting translations or building content components.",
+    "tech_stack": [
+      { "label": "Next.js", "img": "next_js.svg" },
+      { "label": "Node.js", "img": "node_js.svg" },
+      { "label": "Chakra UI", "img": "chakra_ui.svg" },
+      { "label": "Framer Motion", "img": "framer_motion.svg" },
+      { "label": "Typescript", "img": "typescript.svg" },
+      { "label": "GraphQL", "img": "graphql.svg" },
+      { "label": "Contenful", "img": "contentful.svg" }
+    ],
+    "other_tools": [
+      { "label": "Jira", "img": "jira.svg" },
+      { "label": "Bitbucket", "img": "bitbucket.svg" },
+      { "label": "npm", "img": "npm.svg" },
+      { "label": "formik", "img": "formik.svg" },
+      { "label": "yup", "img": "yup.svg" }
+    ]
+  },
+  {
+    "title": "Twitter Clone",
+    "card_img": "card_twitter.svg",
+    "card_descrip": "I developed this exam project individually in the courses Web Development and Databases. It is meant to look and function just like Twitter, now called X.",
+    "created_when": "5th semester exam project",
+    "card_tags": ["Python", "Bottle", "HTML", "Tailwind CSS", "SQLite"],
+    "website": "https://pandapoob.eu.pythonanywhere.com/",
+    "repo": "https://github.com/PandaPoob/my_twitter",
+    "detail_img": "splash_twitter.png",
+    "detail_descrip_1": "This was an exam project on my 5th semester in Web Development and Databases. It is meant to be an exact copy of Twitter. This means that not only is it suppose to look like Twitter it is also suppose to work like Twitter. There is a signup, verify email, login, forgot/reset password, edit profile, delete profile, follow/unfollow, tweet with text and/or image(s) and a full text search.",
+    "detail_descrip_2": "This was the first time I worked with a project where I was in full control of the database and it was also the first time I worked with Python. I was introduced to many things relating to databases like normalisation, ACID principles and CRUD queries. In addition I also gained generel knowledge related to web development like encryption and JSON Web Tokens (jwt).",
+    "detail_docu_text": "Click to see relational entity diagram",
+    "detail_docu_img": "docu_twitter.png",
+    "tech_stack": [
+      { "label": "HTML", "img": "html.svg" },
+      { "label": "JavaScript", "img": "javascript.svg" },
+      { "label": "Tailwind CSS", "img": "tailwindcss.svg" },
+      { "label": "Python", "img": "python.svg" },
+      { "label": "Bottle", "img": "bottle.svg" },
+      { "label": "SQLite", "img": "sqlite.svg" }
+    ],
+    "other_tools": [
+      { "label": "GitHub", "img": "github.svg" },
+      { "label": "PythonAnywhere", "img": "pythonanywhere.svg" },
+      { "label": "Thunder Client", "img": "thunderclient.svg" },
+      { "label": "Pip", "img": "pip.svg" }
+    ]
+  },
+  {
+    "title": "Kattens Værn",
+    "card_img": "card_kv.svg",
+    "card_descrip": "This project was created with my exam group in collaboration with Kattens Værn. We redesigned and built a new brand identity and website to inspire and relate better to the younger part of their target group.",
+    "created_when": "MMD final exam project",
+    "card_tags": ["Next.js", "Chakra UI", "Framer Motion", "WordPress"],
+    "website": "https://new-eksamen-kv.netlify.app/",
+    "repo": "https://github.com/PandaPoob/new_kv_eksamen",
+    "detail_img": "splash_kv.png",
+    "detail_descrip_1": "This website was created with three other students for our final Multimedia design exam where I was mainly responsible for the development.  We were lucky to be able to work together with Kattens Værn to give them our take on a redesigned new website that would better relate to the younger part of their target group.",
+    "detail_descrip_2": "We built a modern frontend to display and handle all their data with Next.js and set up a WordPress site to function as their database/content management system. Everything on the site comes from Wordpress, (except for some content) the cats for adoption, articles, different shelters all come from dynamic data that can be edited, removed or added to from the wordpress site. The missing and found cat forms also post to the database and triggers a build hook so the new cat will be displayed on the lists shortly after.",
+    "detail_docu_text": "Click to see system diagram",
+    "detail_docu_img": "docu_kv.png",
+    "tech_stack": [
+      { "label": "Next.js", "img": "next_js.svg" },
+      { "label": "Node.js", "img": "node_js.svg" },
+      { "label": "Chakra UI", "img": "chakra_ui.svg" },
+      { "label": "Framer Motion", "img": "framer_motion.svg" },
+      { "label": "WordPress", "img": "wordpress.svg" }
+    ],
+    "other_tools": [
+      { "label": "Trello", "img": "trello.svg" },
+      { "label": "Figma", "img": "figma.svg" },
+      { "label": "GitHub", "img": "github.svg" },
+      { "label": "Netlify", "img": "netlify.svg" },
+      { "label": "Postman", "img": "postman.svg" },
+      { "label": "WP plugins", "img": "wp_plugins.svg" },
+      { "label": "npm", "img": "npm.svg" },
+      { "label": "formik", "img": "formik.svg" },
+      { "label": "yup", "img": "yup.svg" },
+      { "label": "react icons", "img": "react_icons.svg" }
+    ]
+  },
+  {
+    "title": "Hwaiting Festival",
+    "card_img": "card_hwaiting.svg",
+    "card_descrip": "This was my first time working with React and working with a framework in general. It was the exam project of my elective Frontend development where we had to build a festival site.",
+    "created_when": "3rd semester exam project",
+    "card_tags": ["React", "React Router", "Sass", "GSAP"],
+    "website": "https://hwating-festival.netlify.app/",
+    "repo": "https://github.com/PandaPoob/hwaitingfestival",
+    "detail_img": "splash_hwaiting.png",
+    "detail_descrip_1": "This site was the exam project of my Frontend elective on the 3rd semester. We were 3 students who created our own “festival” where you could see an overview of the bands playing and where you could book tickets. The backend which provided tickets, schedules and more was originally hosted on Heroku which unfortunately is not the case anymore since it is no longer free. However I have managed to host the band data elsewhere to view the lists but the checkout flow where you order tickets is no longer functional.",
+    "detail_descrip_2": "As this was my first time working with a framework and React I learned a lot. I learned how to manage states and how to use useEffect and context. The site is styled with Sass and we used the animation library GSAP to add animations.",
+    "tech_stack": [
+      { "label": "Node.js", "img": "node_js.svg" },
+      { "label": "React", "img": "next_js.svg" },
+      { "label": "React Router", "img": "react_router.svg" },
+      { "label": "Sass", "img": "sass.svg" },
+      { "label": "WordPress", "img": "gsap.svg" }
+    ],
+    "other_tools": [
+      { "label": "Trello", "img": "trello.svg" },
+      { "label": "Figma", "img": "figma.svg" },
+      { "label": "GitHub", "img": "github.svg" },
+      { "label": "Netlify", "img": "netlify.svg" },
+      { "label": "npm", "img": "npm.svg" }
+    ]
+  },
+  {
+    "title": "Hacked Hogwarts",
+    "card_img": "card_hogwarts.svg",
+    "card_descrip": "During this project I pretended to be a frontend developer at Hogwarts who built a site to administrate students. It displays a student list and has filtering, sorting and other fun features all built in vanilla javascript.",
+    "created_when": "3rd semester project",
+    "card_tags": ["HTML", "CSS", "Javascript"],
+    "website": "https://www.pandapoob.com/kea/11_just_java/hogwarts_hacked/",
+    "repo": "https://github.com/PandaPoob/hacked_hogwarts",
+    "detail_img": "splash_hogwarts.png",
+    "detail_descrip_1": "I created this project while on my 3rd semester of Multimedia Design on the Frontend elective. It is a site to administer the students of Hogwarts and I built the student list from given data. You can filter, sort and search for students. You can also appoint students to be prefects or add them to the Inquisitorial Squad - but only under certain circumstances. You can also expel students or click the suspicious button at the bottom of the page...",
+    "detail_descrip_2": "Though I had worked with JavaScript before I had never had to code something with this many requirements. It was here I was introduced to string methods, params, asynchronous operations, return values and many other new things.",
+    "detail_docu_text": "Click to see activity diagram",
+    "detail_docu_img": "docu_hogwarts.png",
+    "tech_stack": [
+      { "label": "HTML", "img": "html.svg" },
+      { "label": "CSS", "img": "css.svg" },
+      { "label": "JavaScript", "img": "javascript.svg" }
+    ],
+    "other_tools": [
+      { "label": "GitHub", "img": "github.svg" },
+      { "label": "Illustrator", "img": "ai.svg" }
+    ]
+  },
+  {
+    "title": "Whack-A-Panda",
+    "card_img": "card_panda.svg",
+    "card_descrip": "This project introduced me to css animations and javascript through building my very own point-and-click mini game.",
+    "created_when": "1st semester project",
+    "card_tags": ["HTML", "CSS", "Javascript"],
+    "website": "https://www.pandapoob.com/kea/04_animation/spil/",
+    "repo": "https://github.com/PandaPoob/whack-a-panda",
+    "detail_img": "splash_panda.png",
+    "detail_descrip_1": "This mini game was created on my first semester of Multimedia Design. It is a simple point-and-click game inspired by the arcade game “Whack-A-Mole” where the Mole has been replaced with a panda.",
+    "detail_descrip_2": "Back then I had only just learned what HTML and CSS was so this was my first experience with JavaScript. Throughout the project I learned the basics and the logic of the language. I was also introduced to thinking about ways to engage and motivate users with interactive css animations.",
+    "detail_docu_text": "Click to see state machine diagram",
+    "detail_docu_img": "docu_panda.png",
+    "tech_stack": [
+      { "label": "HTML", "img": "html.svg" },
+      { "label": "CSS", "img": "css.svg" },
+      { "label": "JavaScript", "img": "javascript.svg" }
+    ],
+    "other_tools": [
+      { "label": "GitHub", "img": "github.svg" },
+      { "label": "Illustrator", "img": "ai.svg" },
+      { "label": "Photoshop", "img": "ps.svg" }
+    ]
+  }
+]
