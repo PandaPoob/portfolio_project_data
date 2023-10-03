@@ -1,6 +1,6 @@
 {
   "title": "Twitter Clone",
-  "slug": "twitter",
+  "slug": "twitter-clone",
   "card_img": "card_twitter.svg",
   "card_descrip": "I developed this exam project individually in the courses Web Development and Databases. It is meant to look and function just like Twitter, now called X.",
   "created_when": "5th semester exam project",
@@ -26,5 +26,7 @@
     { "label": "PythonAnywhere", "img": "pythonanywhere.svg" },
     { "label": "Thunder Client", "img": "thunderclient.svg" },
     { "label": "Pip", "img": "pip.svg" }
-  ]
+  ],
+  "next": "kattens-vaern",
+  "prev": "change-lingerie"
 }

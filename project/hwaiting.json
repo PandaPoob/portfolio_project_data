@@ -1,6 +1,6 @@
 {
   "title": "Hwaiting Festival",
-  "slug": "hwaiting",
+  "slug": "hwaiting-festival",
   "card_img": "card_hwaiting.svg",
   "card_descrip": "This was my first time working with React and working with a framework in general. It was the exam project of my elective Frontend development where we had to build a festival site.",
   "created_when": "3rd semester exam project",
@@ -23,5 +23,7 @@
     { "label": "GitHub", "img": "github.svg" },
     { "label": "Netlify", "img": "netlify.svg" },
     { "label": "npm", "img": "npm.svg" }
-  ]
+  ],
+  "next": "hacked-hogwarts",
+  "prev": "kattens-vaern"
 }

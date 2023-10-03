@@ -1,6 +1,6 @@
 {
   "title": "Whack-A-Panda",
-  "slug": "panda",
+  "slug": "whack-a-panda",
   "card_img": "card_panda.svg",
   "card_descrip": "This project introduced me to css animations and javascript through building my very own point-and-click mini game.",
   "created_when": "1st semester project",
@@ -22,5 +22,7 @@
     { "label": "GitHub", "img": "github.svg" },
     { "label": "Illustrator", "img": "ai.svg" },
     { "label": "Photoshop", "img": "ps.svg" }
-  ]
+  ],
+  "next": "change-lingerie",
+  "prev": "hacked-hogwarts"
 }

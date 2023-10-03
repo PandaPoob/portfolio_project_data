@@ -1,6 +1,6 @@
 {
   "title": "Change Lingerie",
-  "slug": "change",
+  "slug": "change-lingerie",
   "card_img": "card_change.svg",
   "card_descrip": "I contributed to this substantial ecommerce project during my internship and later as a student worker at AKQA. My primary focus and responsibilities were on the frontend development.",
   "created_when": "Internship/Student worker",
@@ -31,5 +31,7 @@
     { "label": "npm", "img": "npm.svg" },
     { "label": "formik", "img": "formik.svg" },
     { "label": "yup", "img": "yup.svg" }
-  ]
+  ],
+  "next": "twitter-clone",
+  "prev": "whack-a-panda"
 }

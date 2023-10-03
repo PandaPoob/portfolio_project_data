@@ -1,6 +1,6 @@
 {
   "title": "Kattens Værn",
-  "slug": "kv",
+  "slug": "kattens-vaern",
   "card_img": "card_kv.svg",
   "card_descrip": "This project was created with my exam group in collaboration with Kattens Værn. We redesigned and built a new brand identity and website to inspire and relate better to the younger part of their target group.",
   "created_when": "MMD final exam project",
@@ -31,5 +31,7 @@
     { "label": "formik", "img": "formik.svg" },
     { "label": "yup", "img": "yup.svg" },
     { "label": "react icons", "img": "react_icons.svg" }
-  ]
+  ],
+  "next": "hwaiting-festival",
+  "prev": "twitter-clone"
 }
