@@ -10,7 +10,8 @@
   "detail_img": "splash_panda.png",
   "detail_descrip_1": "This mini game was created on my first semester of Multimedia Design. It is a simple point-and-click game inspired by the arcade game “Whack-A-Mole” where the Mole has been replaced with a panda.",
   "detail_descrip_2": "Back then I had only just learned what HTML and CSS was so this was my first experience with JavaScript. Throughout the project I learned the basics and the logic of the language. I was also introduced to thinking about ways to engage and motivate users with interactive css animations.",
-  "detail_docu_text": "Click to see state machine diagram",
+  "detail_docu_text": "Click to see",
+  "detail_docu_btn": "state machine diagram",
   "detail_docu_img": "docu_panda.png",
   "tech_stack": [
     { "label": "HTML", "img": "html.svg" },

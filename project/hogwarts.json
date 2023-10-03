@@ -10,7 +10,8 @@
   "detail_img": "splash_hogwarts.png",
   "detail_descrip_1": "I created this project while on my 3rd semester of Multimedia Design on the Frontend elective. It is a site to administer the students of Hogwarts and I built the student list from given data. You can filter, sort and search for students. You can also appoint students to be prefects or add them to the Inquisitorial Squad - but only under certain circumstances. You can also expel students or click the suspicious button at the bottom of the page...",
   "detail_descrip_2": "Though I had worked with JavaScript before I had never had to code something with this many requirements. It was here I was introduced to string methods, params, asynchronous operations, return values and many other new things.",
-  "detail_docu_text": "Click to see activity diagram",
+  "detail_docu_text": "Click to see",
+  "detail_docu_btn": "activity diagram",
   "detail_docu_img": "docu_hogwarts.png",
   "tech_stack": [
     { "label": "HTML", "img": "html.svg" },

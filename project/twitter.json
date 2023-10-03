@@ -10,7 +10,8 @@
   "detail_img": "splash_twitter.png",
   "detail_descrip_1": "This was an exam project on my 5th semester in Web Development and Databases. It is meant to be an exact copy of Twitter. This means that not only is it suppose to look like Twitter it is also suppose to work like Twitter. There is a signup, verify email, login, forgot/reset password, edit profile, delete profile, follow/unfollow, tweet with text and/or image(s) and a full text search.",
   "detail_descrip_2": "This was the first time I worked with a project where I was in full control of the database and it was also the first time I worked with Python. I was introduced to many things relating to databases like normalisation, ACID principles and CRUD queries. In addition I also gained generel knowledge related to web development like encryption and JSON Web Tokens (jwt).",
-  "detail_docu_text": "Click to see relational entity diagram",
+  "detail_docu_text": "Click to see",
+  "detail_docu_btn": "relational entity diagram",
   "detail_docu_img": "docu_twitter.png",
   "tech_stack": [
     { "label": "HTML", "img": "html.svg" },
