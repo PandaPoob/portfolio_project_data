@@ -1,0 +1,28 @@
+{
+  "title": "CF Dans",
+  "slug": "cf-dans",
+  "card_img": "card_cf.svg",
+  "card_descrip": "A modern redesign of the CF Dans website – built with Astro and React to promote dance classes and events through a simple, fast-loading, and user-friendly interface.",
+  "created_when": "Freelance",
+  "card_tags": ["Astro", "React", "Tailwindcss", "Typescript"],
+  "website": "https://cf-dans-v2.netlify.app/",
+  "repo": "https://github.com/PandaPoob/cf_dans_v2",
+  "detail_img": "splash_cf.png",
+  "detail_descrip_1": "This project is a full redesign and rebuild of a previous website I developed for CF Dans during my first semester as a student. The client needed a modern and more intuitive site to better present their weekly outdoor dance sessions, event-based offers and prices. I handled the entire process from concept and design to development and deployment. The site is production-ready, but currently awaits updated media assets from the client. Once these are in place, I plan to further improve the site’s SEO, perform a full accessibility check and add animations.",
+  "detail_descrip_2": "The site is built with Astro, React, TypeScript, and Tailwind CSS. Since the project consists of a small number of static pages and relatively simple content, Astro was an ideal choice. I’ve focused on keeping the codebase clean and simple with a minimal file structure to ensure maintainability in the future.",
+  "tech_stack": [
+    { "label": "Astro", "img": "astro.svg" },
+    { "label": "React", "img": "react.svg" },
+    { "label": "Tailwind CSS", "img": "tailwindcss.svg" },
+    { "label": "Typescript", "img": "typescript.svg" }
+  ],
+  "other_tools": [
+    { "label": "Figma", "img": "figma.svg" },
+    { "label": "GitHub", "img": "github.svg" },
+    { "label": "Netlify", "img": "netlify.svg" },
+    { "label": "Trello", "img": "trello.svg" },
+    { "label": "Vite", "img": "vite.svg" }
+  ],
+  "next": "change-lingerie",
+  "prev": "whack-a-panda"
+}

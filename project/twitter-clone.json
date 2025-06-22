@@ -5,7 +5,6 @@
   "card_descrip": "I developed this exam project individually in the courses Web Development and Databases. It is meant to look and function just like Twitter, now called X.",
   "created_when": "5th semester exam project",
   "card_tags": ["Python", "Bottle", "HTML", "Tailwind CSS", "SQLite"],
-  "website": "https://pandapoob.eu.pythonanywhere.com/",
   "repo": "https://github.com/PandaPoob/my_twitter",
   "detail_img": "splash_twitter.png",
   "detail_descrip_1": "This was an exam project on my 5th semester in Web Development and Databases. It is meant to be an exact copy of Twitter. This means that not only is it suppose to look like Twitter it is also suppose to work like Twitter. There is a signup, verify email, login, forgot/reset password, edit profile, delete profile, follow/unfollow, tweet with text and/or image(s) and a full text search.",

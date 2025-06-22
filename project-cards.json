@@ -1,5 +1,13 @@
 [
   {
+    "title": "CF Dans",
+    "slug": "cf-dans",
+    "card_img": "card_cf.svg",
+    "card_descrip": "A modern redesign of the CF Dans website – built with Astro and React to promote dance classes and events through a simple, fast-loading, and user-friendly interface.",
+    "created_when": "Freelance",
+    "card_tags": ["Astro", "React", "Tailwindcss", "Typescript"]
+  },
+  {
     "title": "Change Lingerie",
     "slug": "change-lingerie",
     "card_img": "card_change.svg",

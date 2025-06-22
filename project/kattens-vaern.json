@@ -9,7 +9,7 @@
   "repo": "https://github.com/PandaPoob/new_kv_eksamen",
   "detail_img": "splash_kv.png",
   "detail_descrip_1": "This website was created with three other students for our final Multimedia design exam where I was mainly responsible for the development.  We were lucky to be able to work together with Kattens Værn to give them our take on a redesigned new website that would better relate to the younger part of their target group.",
-  "detail_descrip_2": "We built a modern frontend to display and handle all their data with Next.js and set up a WordPress site to function as their database/content management system. Everything on the site comes from Wordpress, (except for some content) the cats for adoption, articles, different shelters all come from dynamic data that can be edited, removed or added to from the wordpress site. The missing and found cat forms also post to the database and triggers a build hook so the new cat will be displayed on the lists shortly after.",
+  "detail_descrip_2": "We built a modern frontend to display and manage all their data using Next.js, and set up a WordPress site to serve as their content management system. Most of the content is dynamic and fetched from WordPress, including the list of adoptable cats, articles, and shelter locations — all of which can be created, edited, or removed through the WordPress backend. The “missing” and “found” cat forms also post to WordPress and trigger a build hook, ensuring the updated content appears on the site shortly after. This setup was necessary because much of the site uses statically generated pages to improve SEO and increase visibility in search engines.",
   "detail_docu_text": "Click to see",
   "detail_docu_btn": "system diagram",
   "detail_docu_img": "docu_kv.png",

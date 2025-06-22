@@ -12,17 +12,18 @@
   "detail_descrip_2": "As this was my first time working with a framework and React I learned a lot. I learned how to manage states and how to use useEffect and context. The site is styled with Sass and we used the animation library GSAP to add animations.",
   "tech_stack": [
     { "label": "Node.js", "img": "node_js.svg" },
-    { "label": "React", "img": "next_js.svg" },
+    { "label": "React", "img": "react.svg" },
     { "label": "React Router", "img": "react_router.svg" },
     { "label": "Sass", "img": "sass.svg" },
-    { "label": "WordPress", "img": "gsap.svg" }
+    { "label": "WordPress", "img": "wordpress.svg" }
   ],
   "other_tools": [
     { "label": "Trello", "img": "trello.svg" },
     { "label": "Figma", "img": "figma.svg" },
     { "label": "GitHub", "img": "github.svg" },
     { "label": "Netlify", "img": "netlify.svg" },
-    { "label": "npm", "img": "npm.svg" }
+    { "label": "npm", "img": "npm.svg" },
+    { "label": "Vite", "img": "vite.svg" }
   ],
   "next": "hacked-hogwarts",
   "prev": "kattens-vaern"
